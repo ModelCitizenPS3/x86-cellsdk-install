@@ -1,2 +1,4 @@
 # x86-cellsdk-install
-Script to install all (working) packages from IBM's Cell CPU SDK on modern Fedora (x86_64) for cross PS3 dev
+
+Super simple script to automate install of Cell CPU cross development tools on a modern x86_64 Fedora system.
+
