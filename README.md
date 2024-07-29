@@ -7,6 +7,5 @@ To use, simply clone this repo, enter the x86-cellsdk-install directory, and run
 ### Recomended Configs
 - Add directory /opt/cell/toolchain/bin to your PATH envireonment variable for your new GNU PPU/SPU toolchains.
 - Add directory /opt/ibmcmp/xlc/ssc/0.9/bin to your PATH environment variable for your new IBM XLC compiler tools.
-- Add environment variable CELL_TOP=/opt/cell/sdk to your .bashrc file.
+- Add the following to your .bashrc file: export CELL_TOP=/opt/cell/sdk
 ### Happy SPUing!
-
